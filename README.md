@@ -17,6 +17,8 @@ Responsive, clean, and ready to use as a template for authentication UIs.
 
 ## 🖥️ Preview
 
+https://instagram-login-page-clone-ten.vercel.app/
+
 ![Insta Login Preview](./src/assets/img/preview.png)
 
 ---
